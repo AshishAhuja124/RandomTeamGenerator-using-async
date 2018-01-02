@@ -1,10 +1,10 @@
-var fs=require('fs');
-var prompt=require('prompt');
-var shuffle = require('shuffle-array');
-var range=require('range');
-var array=require('node-array');
-var readline = require('readline');
-var readFile=require('read-file');
+let fs=require('fs');
+let prompt=require('prompt');
+let shuffle = require('shuffle-array');
+let range=require('range');
+let array=require('node-array');
+let readline = require('readline');
+let readFile=require('read-file');
 
 prompt.start();
 //var path="C:\Users\ashis\Desktop\json\a.json";
